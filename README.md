@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=minsung05)](https://solved.ac/profile/minsung05)
 <!--
 **kms223344/kms223344** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
