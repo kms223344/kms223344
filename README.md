@@ -1,5 +1,8 @@
 ### Hi there 👋
-[![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=minsung05)](https://solved.ac/profile/minsung05)
+[![CodeForces Profile](https://cf.leed.at?id=astilate)](https://codeforces.com/profile/astilate)
+[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=astilate)](https://github.com/KATO-Hiro/AtCoderTrophies)
+[![BOJ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minsung05)](https://solved.ac/profile/minsung05)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kms223344&show_icons=true&theme=dracula)]() 
 
